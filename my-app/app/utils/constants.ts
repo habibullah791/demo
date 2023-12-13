@@ -1,0 +1,2 @@
+export const color_options = ["Select Color", "Red", "Blue", "Green", "Yellow", "Black", "White", "Orange", "Purple", "Pink", "Brown", "Grey", "Gold", "Silver", "Copper", "Bronze", "Other",];
+export const size_options = ["Select Size", "XS", "S", "M", "L", "XL", "XXL", "XXXL", "Other",];
